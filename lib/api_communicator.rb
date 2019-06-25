@@ -27,6 +27,8 @@ def show_character_movies(character)
   print_movies(films)
 end
 
+
+
 ## BONUS
 
 # that `get_character_movies_from_api` method is probably pretty long. Does it do more than one job?
